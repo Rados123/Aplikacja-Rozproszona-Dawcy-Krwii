@@ -1,0 +1,4 @@
+połączenie w SQL w Devconnection
+stworzyć tabele w ssms poprzez Update-Database w visual-studio nuget terminal
+obie aplikacje muszą być odpalone backend w VS, frontend w VSC npm start
+adres łączenia się jest w api.js we frontendzie i CORS w startup.cs w backendzie
